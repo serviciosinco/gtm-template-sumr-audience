@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "SUMR - Visitas",
+  "categories": ["ANALYTICS", "LEAD_GENERATION", "SALES"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
