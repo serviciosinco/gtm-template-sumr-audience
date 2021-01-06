@@ -1,6 +1,6 @@
 
-homepage: "https://www.stormdigital.nl/en"
-documentation: "https://github.com/Stormdigital/gtm-template-salesforce-audience-studio-event-pixel"
+homepage: "https://www.sumr.co/"
+documentation: "https://github.com/serviciosinco/gtm-template-sumr-audience"
 versions:
-  - sha: 1d318911c0b33d085e376d53033be81e1bcaadeb
-    changeNotes: Remove unused log
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    changeNotes: Initial release.
