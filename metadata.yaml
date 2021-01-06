@@ -2,5 +2,5 @@
 homepage: "https://www.sumr.co/"
 documentation: "https://github.com/serviciosinco/gtm-template-sumr-audience"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: faff7afd8ca433da8029513fbfbecb9b8530e8af
     changeNotes: Initial release.
